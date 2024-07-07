@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Minimal music</string>
+    <string name="search_for_an_artist_or_song">Search for an artist or song</string>
+</resources>

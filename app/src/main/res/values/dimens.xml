@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="card_radius">16dp</dimen>
+    <dimen name="card_margin">4dp</dimen>
+    <dimen name="mini_image_margin">8dp</dimen>
+    <dimen name="mini_image_height">50dp</dimen>
+    <dimen name="icon_height">25dp</dimen>
+    <dimen name="icon_margin">16dp</dimen>
+    <dimen name="search_padding">12dp</dimen>
+    <dimen name="search_margin">8dp</dimen>
+    <dimen name="inner_margin_item_song">8dp</dimen>
+    <dimen name="item_song_duration_margin">8dp</dimen>
+    <dimen name="_16dp">16dp</dimen>
+</resources>
